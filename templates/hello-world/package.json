@@ -1,7 +1,0 @@
-{
-  "name": "@plnkr/starter-hello-world",
-  "version": "1.0.0",
-  "description": "Basic, plain javascript and css starter template",
-  "dependencies": {},
-  "plnkr": {}
-}
