@@ -1,0 +1,28 @@
+{
+    "templates": [
+        {
+            "name": "Angular",
+            "description": "Angular starter template",
+            "logoUrl": "https://angular.io/assets/images/logos/angular/angular.png",
+            "path": "./templates/angular"
+        },
+        {
+            "name": "React",
+            "description": "React starter template",
+            "logoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+            "path": "./templates/react"
+        },
+        {
+            "name": "AngularJS",
+            "description": "AngularJS starter template",
+            "logoUrl": "https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg",
+            "path": "./templates/angularjs"
+        },
+        {
+            "name": "Hello world",
+            "description": "Basic, plain javascript and css starter template",
+            "logoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MzAgNjMwIj48cGF0aCBmaWxsPSIjZjdkZjFlIiBkPSJNMCAwaDYzMHY2MzBIMHoiLz48cGF0aCBkPSJNNDIzLjIgNDkyLjE5YzEyLjY5IDIwLjcyIDI5LjIgMzUuOTUgNTguNCAzNS45NSAyNC41MyAwIDQwLjItMTIuMjYgNDAuMi0yOS4yIDAtMjAuMy0xNi4xLTI3LjQ5LTQzLjEtMzkuM2wtMTQuOC02LjM1Yy00Mi43Mi0xOC4yLTcxLjEtNDEtNzEuMS04OS4yIDAtNDQuNCAzMy44My03OC4yIDg2LjctNzguMiAzNy42NCAwIDY0LjcgMTMuMSA4NC4yIDQ3LjRsLTQ2LjEgMjkuNmMtMTAuMTUtMTguMi0yMS4xLTI1LjM3LTM4LjEtMjUuMzctMTcuMzQgMC0yOC4zMyAxMS0yOC4zMyAyNS4zNyAwIDE3Ljc2IDExIDI0Ljk1IDM2LjQgMzUuOTVsMTQuOCA2LjM0YzUwLjMgMjEuNTcgNzguNyA0My41NiA3OC43IDkzIDAgNTMuMy00MS44NyA4Mi41LTk4LjEgODIuNS01NC45OCAwLTkwLjUtMjYuMi0xMDcuODgtNjAuNTR6bS0yMDkuMTMgNS4xM2M5LjMgMTYuNSAxNy43NiAzMC40NSAzOC4xIDMwLjQ1IDE5LjQ1IDAgMzEuNzItNy42MSAzMS43Mi0zNy4ydi0yMDEuM2g1OS4ydjIwMi4xYzAgNjEuMy0zNS45NCA4OS4yLTg4LjQgODkuMi00Ny40IDAtNzQuODUtMjQuNTMtODguODEtNTQuMDc1eiIvPjwvc3ZnPg==",
+            "path": "./templates/react"
+        }
+    ]
+}

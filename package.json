@@ -1,0 +1,27 @@
+{
+  "name": "@plnkr/starters",
+  "version": "1.0.0",
+  "description": "Plunker starter Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plnkr/starters.git"
+  },
+  "keywords": ["plnkr", "plunker", "plunkr"],
+  "author": {
+    "name": "Geoffrey Goodman",
+    "url": "https://twitter.com/filearts"
+  },
+  "license": "MIT",
+  "files": [
+    "templates",
+    "templates.json"
+  ],
+  "bugs": {
+    "url": "https://github.com/plnkr/starters/issues"
+  },
+  "homepage": "https://github.com/plnkr/starters#readme"
+}

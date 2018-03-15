@@ -1,0 +1,13 @@
+{
+  "name": "@plnkr/starter-react",
+  "version": "1.0.0",
+  "description": "React starter template",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "plnkr": {
+    "runtime": "system",
+    "useHotReload": true
+  }
+}
