@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "preact": "^8.2.7"
+  },
+  "plnkr": {
+    "runtime": "system",
+    "useHotReload": true
+  }
+}
