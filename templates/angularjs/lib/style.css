@@ -6,3 +6,7 @@
 .x-ng-cloak {
   display: none !important;
 }
+
+h1, p {
+  font-family: sans-serif;
+}
