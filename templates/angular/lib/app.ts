@@ -6,7 +6,7 @@ import { BrowserModule } from '@angular/platform-browser';
     selector: 'my-app',
     template: `
         <div>
-            <h1>Hi {{name}}</h12>
+            <h1>Hi {{name}}</h1>
             <p>Start editing and you will see your changes reflected immediately!</p>
         </div>
     `,
