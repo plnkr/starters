@@ -3,7 +3,7 @@ import { Component, NgModule, VERSION } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 @Component({
-  selector: '#root',
+  selector: 'my-app',
   template: `
     <div>
       <h2>Hi {{name}}</h2>
