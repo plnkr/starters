@@ -1,6 +1,6 @@
 {
   "name": "@plnkr/starter-angularjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AngularJS starter template",
   "dependencies": {
     "angular": "^1.6.9"

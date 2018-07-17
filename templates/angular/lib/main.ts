@@ -2,11 +2,12 @@
 import 'core-js/client/shim';
 
 // Angular requires Zones to be pre-configured in the environment
-import 'zone.js';
-import 'zone.js/dist/long-stack-trace-zone';
+import 'zone.js/dist/zone';
 
 //main entry point
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { AppModule } from './app.js';
+
+import './style.css';
 
 platformBrowserDynamic().bootstrapModule(AppModule);
