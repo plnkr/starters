@@ -4,9 +4,10 @@
 [x-ng-cloak],
 .ng-cloak,
 .x-ng-cloak {
-  display: none !important;
+    display: none !important;
 }
 
-h1, p {
-  font-family: sans-serif;
+h1,
+p {
+    font-family: sans-serif;
 }
