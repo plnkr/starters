@@ -3,23 +3,24 @@ import { Component, NgModule, VERSION } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 @Component({
-  selector: 'my-app',
-  template: `
-    <div>
-      <h2>Hi {{name}}</h2>
-    </div>
-  `,
+    selector: 'my-app',
+    template: `
+        <div>
+            <h1>Hi {{name}}</h12>
+            <p>Start editing and you will see your changes reflected immediately!</p>
+        </div>
+    `,
 })
 export class App {
-  name: string;
-  constructor() {
-    this.name = `Angular! v${VERSION.full}`;
-  }
+    name: string;
+    constructor() {
+        this.name = `Angular! v${VERSION.full}`;
+    }
 }
 
 @NgModule({
-  imports: [BrowserModule],
-  declarations: [App],
-  bootstrap: [App],
+    imports: [BrowserModule],
+    declarations: [App],
+    bootstrap: [App],
 })
 export class AppModule {}
