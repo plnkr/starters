@@ -1,6 +1,6 @@
 {
     "name": "@plnkr/starter-angular",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Angular starter template",
     "dependencies": {
         "@angular/common": "^6.0.9",
@@ -12,7 +12,7 @@
         "rxjs": "^6.1.0",
         "zone.js": "^0.8.26"
     },
-    "main": "./lib/main",
+    "main": "./lib/main.ts",
     "plnkr": {
         "runtime": "system",
         "useHotReload": true
