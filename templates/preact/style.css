@@ -1,2 +1,4 @@
-/* Add your styles here */
-
+h1,
+p {
+    font-family: sans-serif;
+}

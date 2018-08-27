@@ -1,6 +1,9 @@
 {
+  "name": "@plnkr/starter-preact",
+  "version": "1.0.1",
+  "description": "Preact starter template",
   "dependencies": {
-    "preact": "^8.2.7"
+    "preact": "^8.2.5"
   },
   "plnkr": {
     "runtime": "system",
