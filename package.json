@@ -4,6 +4,8 @@
   "description": "Plunker starter Templates",
   "main": "index.js",
   "scripts": {
+    "prepare": "npm run prettier",
+    "prettier": "prettier --write ./**/*.*",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,5 +29,14 @@
   "bugs": {
     "url": "https://github.com/plnkr/starters/issues"
   },
-  "homepage": "https://github.com/plnkr/starters#readme"
+  "homepage": "https://github.com/plnkr/starters#readme",
+  "prettier": {
+    "tabWidth": 2,
+    "printWidth": 80,
+    "trailingComma": "es5",
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }

@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Preact starter template",
   "dependencies": {
-    "preact": "^8.2.5"
+    "preact": "^10.3.0"
   },
   "plnkr": {
     "runtime": "system",

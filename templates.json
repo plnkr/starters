@@ -1,44 +1,40 @@
 {
-    "templates": [
-        {
-            "name": "Angular",
-            "description": "Angular starter template",
-            "logoUrl":
-                "https://angular.io/assets/images/logos/angular/angular.png",
-            "path": "./templates/angular",
-            "options": {
-                "open": "lib/app.ts"
-            }
-        },
-        {
-            "name": "React",
-            "description": "React starter template",
-            "logoUrl":
-                "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-            "path": "./templates/react",
-            "options": {
-                "open": "Hello.js"
-            }
-        },
-        {
-            "name": "AngularJS",
-            "description": "AngularJS starter template",
-            "logoUrl":
-                "https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg",
-            "path": "./templates/angularjs",
-            "options": {
-                "open": "lib/script.js"
-            }
-        },
-        {
-            "name": "Preact",
-            "description": "Preact starter template",
-            "logoUrl":
-                "https://raw.githubusercontent.com/developit/preact-www/master/src/assets/app-icon-192.png",
-            "path": "./templates/preact",
-            "options": {
-                "open": "App.js"
-            }
-        }
-    ]
+  "templates": [
+    {
+      "name": "Angular",
+      "description": "Angular starter template",
+      "logoUrl": "https://angular.io/assets/images/logos/angular/angular.png",
+      "path": "./templates/angular",
+      "options": {
+        "open": "lib/app.ts"
+      }
+    },
+    {
+      "name": "React",
+      "description": "React starter template",
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+      "path": "./templates/react",
+      "options": {
+        "open": "Hello.js"
+      }
+    },
+    {
+      "name": "AngularJS",
+      "description": "AngularJS starter template",
+      "logoUrl": "https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg",
+      "path": "./templates/angularjs",
+      "options": {
+        "open": "lib/script.js"
+      }
+    },
+    {
+      "name": "Preact",
+      "description": "Preact starter template",
+      "logoUrl": "https://user-images.githubusercontent.com/50030/76169340-93e73280-614d-11ea-84c8-90de0c0dc298.png",
+      "path": "./templates/preact",
+      "options": {
+        "open": "App.js"
+      }
+    }
+  ]
 }
